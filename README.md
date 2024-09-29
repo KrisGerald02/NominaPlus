@@ -16,5 +16,5 @@ Backend: Javascript: Node.js.
 Frontend: Javascript: React, HTML/CSS.
 
 # Desarrolladores
-Kristel Geraldine Villalta Porras.
-Jorge Luis Nicaragua Hernandez.
+1. Kristel Geraldine Villalta Porras.
+2. Jorge Luis Nicaragua Hernandez.
