@@ -15,4 +15,6 @@ Este proyecto es un sistema de nómina de pagos diseñado para facilitar la gest
 Backend: Javascript: Node.js.
 Frontend: Javascript: React, HTML/CSS.
 
-
+# Desarrolladores
+Kristel Geraldine Villalta Porras.
+Jorge Luis Nicaragua Hernandez.
